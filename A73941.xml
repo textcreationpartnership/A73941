@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Quene. Whereas the Quenes Maiestie by her proclamation dyd adiourne the terme of Saint Michaell last past  ...</title>
+            <title>Proclamations. 1563-12-10</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1563</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73941</idno>
+            <idno type="STC">STC 7964.5</idno>
+            <idno type="STC">ESTC S124677</idno>
+            <idno type="EEBO-CITATION">99900332</idno>
+            <idno type="PROQUEST">99900332</idno>
+            <idno type="VID">150841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1984:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Quene. Whereas the Quenes Maiestie by her proclamation dyd adiourne the terme of Saint Michaell last past  ...</title>
+                  <title>Proclamations. 1563-12-10</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Richard Iugge and Iohn Cawood, printers to the Quenes Maiestie,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A proclamation adjourning Hilary term to Hertford Castle because of plague.</note>
+                  <note>Dated at end of sheet two: [G]euen at her Maiesties castell of Wyndsor the tenth day of December, in the syxt yere of her Maiesties raigne.</note>
+                  <note>At foot of sheet 2: Cum priuilegio Regiæ Maiestatis.</note>
+                  <note>Another edition of STC 7964, with the addition of the adjournment of the Court of Exchequer--STC.</note>
+                  <note>Steele notation: of  of  2) lyke-  as.</note>
+                  <note>Reproduction of original in the British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  London --  Early works to 1800.</term>
+               <term>Terms of court --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:150841:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 39 -->
+            <head>¶ By the Quene.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here as the Quenes Maieſtie by her Proclamation dyd adiourne the Terme of Saint Michaell laſt paſt, vntyll the fyrſt day of Hyllary Terme nexte commyng, then to begyn at Weſtminſter, as in tymes paſt hath ben accuſtomed, hauing then good hope that before that tyme the plague in the Cities of London and Weſtmin<g ref="char:EOLhyphen"/>ſter woulde haue ceaſſed. And foraſmuch as the ſame plague doth not ſo much di<g ref="char:EOLhyphen"/>miniſhe, as therof any aſſured accompt may be made, that the aſſemblye of her lo<g ref="char:EOLhyphen"/>uyng Subiectes may without peryll be made at Weſtminſter aforeſayd, at the ſaid tyme appoynted: Therefore her hyghnes hath thought it expedient, by thaduice of her Counſell, to adiourne the ſayde Hyllary Terme, from Weſtminſter afore<g ref="char:EOLhyphen"/>ſayde, vnto her hyghnes Caſtell of Hertford, in the Countie of Hertford, there to begyn <hi>Quindena ſancti Hillarii</hi> nexte commyng. Which her hyghnes doeth ſignifie vnto all her louyng Subiectes by this her Proclamation, wyl<g ref="char:EOLhyphen"/>lyng and commaundyng them and euery of them, to whom it doth apperteyne, to obſerue and kepe theyr aſſem<g ref="char:EOLhyphen"/>blyes and apparaunces, in all and euery her hyghnes Courtes at the ſayde <hi>Quindena,</hi> there to be holden in lyke ma<g ref="char:EOLhyphen"/>ner, fourme, and condition, as they woulde, ſhoulde, or ought to haue done, if the ſame Terme and Courtes had ben holden and kept at Weſtminſter, as they and euery of them wyll aunſwere at theyr peryls: any thyng in her Maieſties former Proclamation to the contrary notwithſtandyng. And neuertheleſſe her Maieſties pleaſure is, that two of her Iuſtices, that is to ſaye, of eyther Benche one, ſhall the fyrſt day of this next Hyllary Terme, called <hi>Octabis Hillarii,</hi> accordyng to the auncient order of her lawes, kepe the eſſoynes of the ſayde <hi>Octab. Hillarii.</hi> At which <hi>vtas</hi> of Saint Hyllarii, writtes of adiournement ſhalbe directed to the ſayde Iuſtices, geuyng them auc<g ref="char:EOLhyphen"/>thoritie to adiourne the ſayde Hyllary Terme from Weſtminſter aforeſayde, vnto the ſayde Caſtell of Hertford, there to begyn <hi>Quindena ſancti Hillarii,</hi> then next enſuyng: and the ſame adiournement ſhalbe made the fyrſte daye of the ſayde <hi>vtas,</hi> commonly called the day of the eſſoynes.</p>
+            <p>And further, her Maieſtie conſideryng, that yf there ſhould happen to be any acceſſe and apparaunce of her louyng Subiectes at the ſayd Caſtell or Towne of Hertford, duryng the ſayde Terme, of ſuch as haue ben late<g ref="char:EOLhyphen"/>lye infected with the plague, or otherwyſe of ſuche as haue had the plague in theyr houſes, there myght enſue great peryll and daunger to thoſe that haue as yet ben cleare thereof, and ſo a further inconuenience myght growe thereby to the reſt of the Realme: Wherefore her hyghnes in aduoydyng therof, doeth ſtrayghtly charge &amp; commaunde, that no ſuch perſon or perſons that ſo haue ben infected, or haue had the plague in theyr houſes, of what eſtate or degree he or they be of, ſhall repayre vnto the ſaid Caſtell or Towne of Hertford, during the ſaid Hyllary Terme, except he or they be or ſhalbe commaunded by proceſſe, or otherwyſe hath ſpeciall commaunde<g ref="char:EOLhyphen"/>ment to be there. And that euery ſuch perſon ſo infected, vpon his repayre to the ſayde Caſtell or Towne, ſhall before he enter into any houſe within the ſayde Towne, or into the ſayde Caſtell, openly notifie and declare his eſtate touchyng his infection, and ſhall after, duryng the time of his abode there, beare and holde vp in his hand one whyte rodde of the length of one yarde, vpon payne of her Maieſties diſpleaſure, and impriſonment of theyr bodyes duryng her hyghnes pleaſure. And further, her Maieſtie ſtrayghtly chargeth and commaundeth all Iuſtices of peace of the ſayde Countie of Hertford, dwellyng within twelue myles of the ſayde Towne and Ca<g ref="char:EOLhyphen"/>ſtell of Hertford, and all Conſtables, Baylyffes, and head officers of any Borowes, Townes, Vyllages, or Ham<g ref="char:EOLhyphen"/>lettes, within eyght myles of the ſayde Towne and Caſtell of Hertford, that they and euery of them, ſhall from the daye of the proclaymyng of this Proclamation within the ſayde Countie, do theyr beſt endeuours to make and ſet forth ſuch good orders, as by the goodnes of God maye tende moſt to the preſeruation of all places with<g ref="char:EOLhyphen"/>in the ſame circuite of eyght myles, from infection of the plague, and for that purpoſe to aſſemble them ſelues together wekely, from the tyme of the proclaymyng of this Proclamation, vntyll the ende of the ſayde Hyllary Terme, in ſome places conuenient, aſwell for the deuyſyng, as for the execution of ſuche good orders. And that the ſayde Iuſtices of peace, ſhall in the fyrſt day of the ſayde Hyllary Terme, ſignifie and declare to the Lorde ke<g ref="char:EOLhyphen"/>per of the great Seale of Englande, all that they and the ſayde Conſtables, and other the ſayde officers, ſhall then haue done in and about the premiſſes.</p>
+            <closer>
+               <dateline>Yeuen at her Maieſties Caſtell of Wyndſor <date>the .x. day of December, in the ſyxt yere of her Maieſties raigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+         <div type="colophon">
+            <p>Imprinted by Richard Iugge and Iohn Cawood, printers to the Quenes Maiestie.</p>
+         </div>
+         <div type="privilege">
+            <p>Cum priuilegio Regiae Maiestatis.</p>
+            <pb facs="tcp:150841:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <pb facs="tcp:150841:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+         </div>
+         <div type="postscript">
+            <p>And further, the Quenes hyghnes pleaſure is, that her Maieſties Court of Th exchequer ſhall lyke<g ref="char:EOLhyphen"/>wyſe be adiourned from her houſe of Syon, where it nowe is, vnto the ſayde Caſtell of Hertford, and there to begyn <hi>Octabis Hillarii,</hi> next commyng. And that all accomptauntes and other perſons, which haue or ſhall haue daye by proces out of the ſame Court to appeare <hi>Crastino Hillarii</hi> next, ſhall lykewyſe kepe theyr daye and apparence at the ſayde Caſtell of Hertford, in the ſayde <hi>Octabis Hillarii</hi> next, vpon ſuche paynes as in the ſame proces is limitted.</p>
+            <closer>
+               <dateline>Yeuen at her Maieſties Caſtell of Wyndſor <date>the tenth day of December, in the ſyxt yere of her Maieſties raigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted by Richard Iugge and Iohn Cawood, Printers to the Quenes Maieſtie.</p>
+         </div>
+         <div type="privilege">
+            <p>
+               <hi>Cum priuilegio Regiae Maiestatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
